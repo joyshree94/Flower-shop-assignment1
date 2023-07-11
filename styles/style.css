@@ -221,3 +221,20 @@
 	font-size: 15px;
 	
 }
+
+/*footer-part*/
+.footer-part{
+	padding: 40px 150px 70px 150px;
+	text-align: center;
+	background-color: black;
+	color: #FFF;
+}
+.footer-part span{
+	color:#E55473;
+}
+.footer-part p{
+
+	width: 490px;
+	padding-left: 300px;
+	
+}
