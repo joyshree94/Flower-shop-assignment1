@@ -109,3 +109,48 @@
 .delivery-image{
 	padding: 40px 50px;
 }
+/*hot-sale-part*/
+.hot-sale{
+	background-color: rgba(229, 84, 115, 0.10);
+	padding: 0px 250px 0px 250px;
+	display: flex;
+	align-items: center;
+}
+.hot-sale-caption {
+	text-align: center;
+}
+.hot-sale-caption h1{
+	font-weight: 800;
+	font-size: 35px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+.hot-sale-caption span{
+	color: #E55473;
+}
+.hot-sale-caption p{
+	width: 520px;
+	padding-bottom: 30px;
+	
+	
+}
+.hot-sale-caption button{
+	padding: 10px 25px;
+	background-color: #E55473;
+	color: white;
+	border-color: #E55473;
+	border-radius: 5px;
+	border-width: 0px;
+	font-size: 15px;
+	
+}
+.hot-sale-image{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 100px;
+	
+}
+.hot-sale-image img{
+	width: 300px;
+	height: 300px;
+}
