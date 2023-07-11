@@ -154,3 +154,29 @@
 	width: 300px;
 	height: 300px;
 }
+
+/*instagram*/
+.Instagram{
+	padding: 50px 150px 50px 150px;
+	background-color: rgba(71, 125, 17, 0.15);
+
+}
+.Instagram h1,p{
+  text-align: center;
+  padding-top: 20px;
+}
+.Instagram p{
+	width: 490px;
+	padding-left: 300px;
+  }
+.Instagram-image{
+	display: flex;
+	justify-content: center;
+	padding-top: 20px;
+}
+
+.Instagram-image img{
+	width: 260px;
+	height: 300px;
+	margin-left: 15px;
+}
