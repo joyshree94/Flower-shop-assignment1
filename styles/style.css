@@ -96,3 +96,16 @@
 	text-decoration: underline;
 	
 }
+
+/*delivery-part*/
+.delivery-part{
+	display: flex;
+	justify-content: center;
+	padding: 20px 0px;
+	margin-top: 30px;
+	background-color: rgba(229, 84, 115, 0.05);
+}
+
+.delivery-image{
+	padding: 40px 50px;
+}
