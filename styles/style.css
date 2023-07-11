@@ -180,3 +180,39 @@
 	height: 300px;
 	margin-left: 15px;
 }
+/*latest-part*/
+.latest-deal{
+	text-align: center;
+	padding: 40px 125px 70px 140px;
+}
+.latext-caption{
+	background:url(../images/Rectangle\ 9.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+	padding: 80px 0px;
+	
+}
+.latext-caption h1{
+	font-size: 40px;
+}
+.latext-caption p{
+	padding-bottom: 30px;
+}
+.latest-deal input{	
+	padding: 10px;
+	font-size: 17px;
+	border: 1px solid #FFF;
+	width: 45%;
+	background: #FFF;
+}
+
+.latest-deal button{
+	padding: 14px 30px 13px 30px;
+	background-color: #E55473;
+	color: white;
+	border-color: #E55473;
+	border-radius: 5px;
+	border-width: 0px;
+	font-size: 15px;
+	
+}
